@@ -1,0 +1,7 @@
+"C:/Users/Zane/Documents/Titanium_Studio_Workspace/ProgrammingAssignment3/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/Zane/Documents/Titanium_Studio_Workspace/ProgrammingAssignment3/build/android/gen/com/ZaneHowland/Assignment3/ApplicationStylesheet.java"
+"C:/Users/Zane/Documents/Titanium_Studio_Workspace/ProgrammingAssignment3/build/android/gen/com/ZaneHowland/Assignment3/Programmingassignment3Activity.java"
+"C:/Users/Zane/Documents/Titanium_Studio_Workspace/ProgrammingAssignment3/build/android/gen/com/ZaneHowland/Assignment3/Programmingassignment3AppInfo.java"
+"C:/Users/Zane/Documents/Titanium_Studio_Workspace/ProgrammingAssignment3/build/android/gen/com/ZaneHowland/Assignment3/Programmingassignment3Application.java"
+"C:/Users/Zane/Documents/Titanium_Studio_Workspace/ProgrammingAssignment3/build/android/gen/com/ZaneHowland/Assignment3/R.java"
+"C:/Users/Zane/Documents/Titanium_Studio_Workspace/ProgrammingAssignment3/build/android/gen/ti/modules/titanium/ui/R.java"
